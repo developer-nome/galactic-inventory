@@ -1,6 +1,10 @@
 # Galactic Inventory API
 
 A FastAPI application for managing galactic inventory across stations and planets using PostgreSQL with asyncpg.
+<img width="1009" height="874" alt="Screenshot01" src="https://github.com/user-attachments/assets/4f3fa5a1-6fa3-4ae2-94ee-7b5a98d650e0" />
+<img width="1010" height="875" alt="Screenshot02" src="https://github.com/user-attachments/assets/8d4d34cc-384b-45f1-bacb-62ba47361297" />
+<img width="1009" height="874" alt="Screenshot03" src="https://github.com/user-attachments/assets/542e54b6-26d6-4510-8d14-86ca9097e99e" />
+<img width="1011" height="877" alt="Screenshot04" src="https://github.com/user-attachments/assets/ede0ba2c-48cc-41f1-a9d9-2d972d03ad90" />
 
 ## Features
 
